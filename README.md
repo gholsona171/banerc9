@@ -9,5 +9,6 @@ stay public and must never contain anything private.
 | `banner.webp` | Test (Oct 6 2026): the same banner with the city drifting behind, animated WebP (1.4 MB; as a GIF it was 11.5 MB). Used by `server.cfg` while the test runs; if FiveM does not show it, the server goes back to `banner.gif` |
 | `banner-wide.webp` | Still version of the banner |
 | `logo.webp` | Square logo |
+| `cleveland-banner.png` | Cleveland RP server (Nov 8 2026): `banner_detail` and `banner_connecting` in its `server.cfg`. 1000x334 still: round Cleveland RP logo, name, features, Owner ItzFinesse4k / Developer detroit_tony |
 
 Link format: `https://raw.githubusercontent.com/gholsona171/banerc9/main/<file>`
